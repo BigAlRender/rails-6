@@ -12,4 +12,4 @@ Fork the repo and use the button below to deploy this app one click.
 
 To deploy manually, see the guide at https://render.com/docs/deploy-rails.
 
-A Change.
+A change.
