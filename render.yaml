@@ -19,5 +19,5 @@ services:
       - key: SECRET_KEY_BASE
         generateValue: true
     domains:
-      - one.heyhey.co.uk
-      - two.heyhey.co.uk
+      - three.heyhey.co.uk
+      - four.heyhey.co.uk
