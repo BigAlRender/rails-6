@@ -20,4 +20,6 @@ if [[ "$IS_PULL_REQUEST" == "true" ]]; then
         --data "$DOMAIN_JSON"
 
     echo "Now create $RENDER_SERVICE_NAME.heyhey.co.uk CNAME record pointing at $RENDER_SERVICE_NAME.onrender.com..."
+else
+    echo "This was a non PR main blueprint deploy! 🎉"
 fi
